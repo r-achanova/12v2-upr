@@ -2,6 +2,7 @@
 
 namespace CatShow.Data.Entities
 {
+    //table cats
     public class Cat
     {
         public int Id { get; set; }
